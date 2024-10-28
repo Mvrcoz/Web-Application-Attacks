@@ -17,4 +17,4 @@
 - SQL Injection and XSS vulnerabilities can compromise web application security.
 - Practical methods for identifying and mitigating these issues.
 
-[Web Application Attacks](https://docs.google.com/document/d/1GFuqBDgwLwGJpP6IBNqy3p7RAIaA3Aob/edit?usp=drive_link&ouid=100141634897900090292&rtpof=true&sd=true)
+[Web Application Attacks](https://docs.google.com/document/d/1GFuqBDgwLwGJpP6IBNqy3p7RAIaA3Aob/edit?usp=sharing&ouid=100141634897900090292&rtpof=true&sd=true)
